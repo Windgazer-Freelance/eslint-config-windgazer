@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-windgazer",
+  "version": "1.0.0",
+  "description": "Windgazer EsLint configuration, for basic ES6 linting.",
+  "keywords": "Windgazer, eslint-config, eslint",
+  "license": "MIT",
+  "repository": "bitbucket:bestseller-ecom/eslint-config-bestseller",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.x"
+  },
+  "main": "windgazer.js",
+  "scripts": {
+    "ci": "eslint **/*.js"
+  }
+}
