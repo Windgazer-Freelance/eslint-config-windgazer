@@ -39,4 +39,4 @@ Make note, the above is only a reasonable setting in which using e6 with some of
 
 Make sure you've increased the version-number in `package.json`.
 
-`npm publish`
+`npm publish --access=public`
