@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": "github.com:Windgazer-Freelance/eslint-config-windgazer.git",
   "devDependencies": {
-    "eslint": "^3.x"
+    "eslint": "^8.x"
   },
   "peerDependencies": {
     "eslint": ">= 3"
